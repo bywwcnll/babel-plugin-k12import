@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugin-k12import",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "babel plugin for k12 development",
+  "keywords": [
+    "babel-plugin", "k12import", "k12lib"
+  ],
+  "author": "bywwcnll <2233540467@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bywwcnll/babel-plugin-k12import"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
