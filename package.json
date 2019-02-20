@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-k12import",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "description": "babel plugin for k12 development",
   "keywords": [
